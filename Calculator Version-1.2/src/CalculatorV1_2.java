@@ -50,12 +50,6 @@ public class CalculatorV1_2 {
 
             if(op == 'x' || op == 'X'){break;}
 
-//            if(op == '=') {
-//                System.out.println("Result = " + result);
-//                System.out.print("Enter an operator: ");
-//                op = input.next().trim().charAt(0);
-//            }
-
 
             if(op == 'e' || op == 'E')
 
