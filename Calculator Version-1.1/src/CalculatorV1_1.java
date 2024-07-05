@@ -3,7 +3,7 @@ import java.util.Scanner;
 import java.lang.Math;
 
 
-public class Calculator {
+public class CalculatorV1_1 {
     
     public static void main(String[] args) {
         
@@ -11,7 +11,7 @@ public class Calculator {
 
      System.out.println(" ");
 
-      System.out.println("Calculator");
+      System.out.println("CalculatorV1");
       System.out.println(" ");
 
       System.out.println("Instructions:  ( Press 'i' or 'I' to print instructions again.)");
