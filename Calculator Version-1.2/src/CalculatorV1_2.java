@@ -49,7 +49,7 @@ public class CalculatorV1_2 {
 
 
             if(op == 'x' || op == 'X'){break;}
-
+            
 
             if(op == 'e' || op == 'E')
 
@@ -195,4 +195,5 @@ public class CalculatorV1_2 {
         }
     }
 }
+
 
