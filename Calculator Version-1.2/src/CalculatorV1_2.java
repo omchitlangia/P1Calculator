@@ -28,16 +28,13 @@ public class CalculatorV1_2 {
         System.out.println("10.Logarithmic function, enter 'l' or 'L' to use ");
 
 
-
-        double result = 0;
-
         System.out.println("  ");
         System.out.println("Initialisation: " + result);
 
         System.out.print("Enter a number: ");
         double number = input.nextDouble();
 
-        result = number;
+        double result = number;
 
         char op;
 
@@ -195,5 +192,3 @@ public class CalculatorV1_2 {
         }
     }
 }
-
-
