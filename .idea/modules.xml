@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Calculator Version-1.1/Calculator Version-1.1.iml" filepath="$PROJECT_DIR$/Calculator Version-1.1/Calculator Version-1.1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Calculator Version-1.2/Calculator Version-1.2.iml" filepath="$PROJECT_DIR$/Calculator Version-1.2/Calculator Version-1.2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/P1Calculator.iml" filepath="$PROJECT_DIR$/P1Calculator.iml" />
     </modules>
   </component>
 </project>
