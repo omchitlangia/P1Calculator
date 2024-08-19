@@ -29,7 +29,7 @@ public class CalculatorV1_2 {
 
 
         System.out.println("  ");
-        System.out.println("Initialisation: " + result);
+        System.out.println("Initialisation: " + "0.00");
 
         System.out.print("Enter a number: ");
         double number = input.nextDouble();
