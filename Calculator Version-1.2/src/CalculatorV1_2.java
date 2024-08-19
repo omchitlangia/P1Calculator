@@ -9,7 +9,7 @@ public class CalculatorV1_2 {
 
         System.out.println(" ");
 
-        System.out.println("CalculatorV1");
+        System.out.println("CalculatorV2");
         System.out.println(" ");
 
         System.out.println("Instructions:  ( Press 'i' or 'I' to print instructions again.)");
